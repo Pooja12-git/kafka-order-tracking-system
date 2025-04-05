@@ -1,0 +1,32 @@
+[
+  {
+    "order_id": "ORD1001",
+    "customer_id": "CUST001",
+    "timestamp": "2025-04-06T10:15:00",
+    "status": "PLACED"
+  },
+  {
+    "order_id": "ORD1002",
+    "customer_id": "CUST002",
+    "timestamp": "2025-04-06T10:17:22",
+    "status": "PLACED"
+  },
+  {
+    "order_id": "ORD1003",
+    "customer_id": "CUST003",
+    "timestamp": "2025-04-06T10:20:10",
+    "status": "PLACED"
+  },
+  {
+    "order_id": "ORD1004",
+    "customer_id": "CUST004",
+    "timestamp": "2025-04-06T10:25:45",
+    "status": "PLACED"
+  },
+  {
+    "order_id": "ORD1005",
+    "customer_id": "CUST005",
+    "timestamp": "2025-04-06T10:30:12",
+    "status": "PLACED"
+  }
+]
